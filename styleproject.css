@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border: border-box;
+
+}
+.navbar {
+    height: 60px;
+    background-color: #0f1111;
+    color: white;
+
+}
+.nav-logo{
+    height: 50px;
+    width: 100%;
+}
+.logo{
+    background-image: url("fa-brands fa-amazon");
+    background-size: cover;
+    height: 20px;
+    width: 40%;
+
+}
+.border{
+    border: 2px solid transparent;
+
+}
+.border:hover{
+    border: 2px solid white;
+}

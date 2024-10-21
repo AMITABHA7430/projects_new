@@ -1,0 +1,31 @@
+h1 {
+    color: blue;
+}
+p {
+    color: greenyellow;
+}
+button {
+   background-color: blueviolet;
+}
+body{
+    background-color: rgb(7, 7, 7);
+}
+BODY {
+    color: #FFFF0F;
+}
+#head1 {
+    color: blueviolet;
+}
+#head2 {
+color: #FFFF0F;
+}
+#head3 {
+    color: aquamarine;
+}
+.myclass {
+    color: black;
+
+}
+p {
+    text-align: right;
+}
